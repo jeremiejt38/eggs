@@ -42,6 +42,7 @@ ___
 
 - Default server ports are listed below, but all three ports can be changed freely.
 - Clients connect via the server list in game.
+- Game and Query port can be any port
 
 | Port    | Default | Protocol |
 |---------|---------|----------|
@@ -55,8 +56,8 @@ ___
 |           | Recommended  | Extra info  |
 |-----------|--------------|-------------|
 | Processor | Recent x86/64 (AMD/Intel) processor. No 32 bit or ARM support. | Unsubstantiated reports say that RCON uses significantly more CPU when enabled, but I have not been able to replicate myself. |
-| RAM       |  8-16 GB     |
-| Storage   |  14 GB (or more, depending on save size or frequency) |
+| RAM       |  6-16 GB     |
+| Storage   |  16-20 GB (or more, depending on save size or frequency) |
 
 ___
 
